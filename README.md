@@ -121,9 +121,10 @@ Real-time fitness tracking and posture correction using advanced computer vision
 **50+ Repositories**
 
 Explore diverse projects including:
-- WhatsApp Clone (MERN)
-- RESTful APIs
-- Mini Applications
+- Ai Zara T shirt 
+- Multi Role Next Js School System
+- Shaheed Wazir Enterprices(Accounting Digital Solution)
+- 2d Avatar Chatbot 
 
 </td>
 </tr>
