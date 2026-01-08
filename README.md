@@ -131,32 +131,6 @@ Explore diverse projects including:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-moon34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mr-moon34&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=mr-moon34&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6" width="100%" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -200,8 +174,6 @@ Explore diverse projects including:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mr-moon34/mr-moon34/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-> **📝 Note:** Snake animation requires GitHub Action setup. Instructions below.
 
 ---
 
@@ -255,11 +227,5 @@ Explore diverse projects including:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-### Step 2: Activate
-1. Go to **Actions** tab
-2. Click **"Generate Snake"**
-3. Click **"Run workflow"**
-4. Wait 5-10 minutes
 
 </details>
