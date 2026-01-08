@@ -4,16 +4,17 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Next.js+%26+MERN+Expert;DevOps+%26+GenAI+Enthusiast;Python+%26+Computer+Vision;Freelance+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=800&lines=Software+Architect;Full+Stack+AI+Specialist;Next.js+%26+XState+Expert;Real-time+Cloud+Solutions;Architect+of+CodeWeave" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>⚡ Engineering Scalable Realities ⚡</h3>
+  <h3>⚡ FULL STACK WEB DEVELOPER | MERN | Next.js | Python⚡</h3>
   <p align="center">
-    Graduate CS Student at <b>Mehran University</b> (GPA: 3.44) | Architect of <b>CodeWeave</b> | Global Freelance Engineer
-  </p>
+  <b>Software Engineer | Real-Time Systems & AI Integration Specialist</b> <br>
+  Mehran UET Alumnus | Architect of <b>CodeWeave</b> | Global Freelance Engineer
+</p>
 </div>
 
 <br/>
