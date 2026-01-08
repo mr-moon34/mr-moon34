@@ -1,8 +1,3 @@
-
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=Muhammad%20Moon&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-</h1>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Full+stack+Developer;Python+Developer;MERN+Developer;Next.js+Developer" alt="Typing SVG" />
 </div>
