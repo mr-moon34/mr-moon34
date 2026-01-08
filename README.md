@@ -40,7 +40,6 @@ I am a <b>Full Stack Developer</b> who doesn't just write code I engineer soluti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-moon34&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077B5&ring=0077B5&fire=0077B5" width="100%" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-moon34&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077B5&ring=0077B5&fire=0077B5)](https://git.io/streak-stats)
 ---
 
 ### 💎 Featured Masterpieces
@@ -62,15 +61,11 @@ I am a <b>Full Stack Developer</b> who doesn't just write code I engineer soluti
 
 ---
 
-### � System Performance & Insights
+### 📊 System Performance & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-moon34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077B5" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-moon34&theme=tokyonight" width="100%" />
 </p>
 
 <div align="center">
@@ -96,5 +91,5 @@ I am a <b>Full Stack Developer</b> who doesn't just write code I engineer soluti
   <br />
   <b>Thank you for visiting! Let's build something epic together. ✨</b>
   <br />
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0077B5&height=30&section=footer&text=Innovating%20at%20Scale&fontSize=15&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0077B5&height=30&section=footer&text=Innovating%20at%20Scale&fontSize=15&fontColor=ffffff" width="100%" />
 </div>
