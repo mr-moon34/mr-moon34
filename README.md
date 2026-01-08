@@ -152,14 +152,6 @@ Explore diverse projects including:
   <img src="https://img.shields.io/badge/GitHub-moondeveloper34-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<details>
-<summary><b>📊 View Secondary Account Stats</b></summary>
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moondeveloper34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondeveloper34&layout=compact&theme=tokyonight&hide_border=true" />
-
-</details>
 
 </div>
 
@@ -216,16 +208,4 @@ Explore diverse projects including:
 </div>
 
 
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+      
