@@ -1,18 +1,24 @@
 
+<!-- 
+  FINAL STABLE VERSION 
+  README updated to fix broken images and integrate dual accounts.
+  MANUAL ACTION REQUIRED: Setup the 'Snake' Action (see Walkthrough)
+-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=250&section=header&text=Muhammad%20Moon&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Next.js+%26+MERN+Expert;Python+%26+AI+Integration;Freelance+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=Full+stack+Developer;Python+Developer;MERN+Developer;Next.js+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>⚡ Software Engineer | Real-Time Systems & AI Specialist ⚡</h3>
+  <h3>⚡ Software Engineer | REAL-TIME SYSTEMS & AI SPECIALIST⚡</h3>
   <p align="center">
-  Mehran UET Alumnus | Architect of <b>CodeWeave</b> | Global Freelance Engineer
+  <b>Mehran UET Alumnus | Architect of CodeWeave | Global Freelance Engineer</b>
 </p>
 </div>
 
@@ -28,7 +34,7 @@ I am a <b>Full Stack Developer</b> who doesn't just write code—I engineer solu
 
 - 🌍 **Serving Global Clients**: Translating international visions into digital products.
 - 🤖 **AI-First Mindset**: Integrating Gemini, OpenCV, and LLMs into daily workflows.
-- ☁️ **Dual Hub Presence**: Managing complex architectures across my primary and auxiliary workspaces.
+- 🚀 **Dual Hub Presence**: Managing complex architectures across [mr-moon34](https://github.com/mr-moon34) and [moondeveloper34](https://github.com/moondeveloper34).
 
 ---
 
@@ -61,20 +67,27 @@ I am a <b>Full Stack Developer</b> who doesn't just write code—I engineer solu
 ### 📊 Ecosystem Performance (Dual Account Analysis)
 
 <p align="center">
-  <b>Primary Account (mr-moon34)</b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-moon34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077B5" width="49%" />
+  <b>Primary Account: mr-moon34</b><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-moon34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <b>Secondary Hub (moondeveloper34)</b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=moondeveloper34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondeveloper34&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077B5" width="49%" />
+  <b>Secondary Hub: moondeveloper34</b><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=moondeveloper34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondeveloper34&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <div align="center">
-  <h4>🐍 The Continuous Flow</h4>
+  <h4>🐍 The Continuous Flow (Contribution Snake)</h4>
+  <!-- NOTE: This image will show up AFTER you run the GitHub Action provided in the walkthrough -->
   <img src="https://raw.githubusercontent.com/mr-moon34/mr-moon34/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-moon34&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
 </div>
 
 ---
