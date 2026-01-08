@@ -40,6 +40,7 @@ I am a <b>Full Stack Developer</b> who doesn't just write code I engineer soluti
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-moon34&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077B5&ring=0077B5&fire=0077B5" width="100%" />
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-moon34&theme=tokyonight&hide_border=true&background=0d1117&stroke=0077B5&ring=0077B5&fire=0077B5)](https://git.io/streak-stats)
 ---
 
 ### 💎 Featured Masterpieces
