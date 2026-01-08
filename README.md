@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077B5&height=250&section=header&text=Muhammad%20Moon&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=Muhammad%20Moon&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </h1>
 
 <div align="center">
