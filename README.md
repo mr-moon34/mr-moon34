@@ -24,7 +24,7 @@
 ### 🏛️ Digital Identity (Who I Am)
 
 <p align="left">
-I am a <b>Full Stack Developer</b> who doesn't just write code—I engineer solutions. My expertise lies in bridging the gap between high-level business requirements and low-level technical execution. Whether it's architecting <b>GenAI Copilots</b> or building enterprise-grade <b>E-commerce engines</b>, I focus on performance, precision, and production-readiness.
+I am a <b>Full Stack Developer</b> who doesn't just write code I engineer solutions. My expertise lies in bridging the gap between high-level business requirements and low level technical execution. Whether it's architecting <b>GenAI Copilots</b> or building enterprise-grade <b>E-commerce engines</b>, I focus on performance, precision, and production-readiness.
 </p>
 
 - 🌍 **Serving Global Clients**: Translating international visions into digital products.
