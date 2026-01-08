@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7DF1E&background=0D1117&center=true&vCenter=true&width=800&lines=Software+Architect;Full+Stack+AI+Specialist;Next.js+%26+XState+Expert;Real-time+Cloud+Solutions;Architect+of+CodeWeave" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Software+Engineer;GenAI+%26+Real-time+Systems;Next.js+%26+MERN+Stack+Lead;Cloud+Architecture+%26+DevOps;Global+Freelance+Engineer" alt="Typing SVG" />
 </div>
 
 <br/>
