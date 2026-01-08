@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I am a **Full Stack Developer** who doesn't just write code—I engineer solutions. My expertise lies in bridging the gap between high-level business requirements and low-level technical execution.
+I am a **Full Stack Developer** who doesn't just write code I engineer solutions. My expertise lies in bridging the gap between high-level business requirements and low-level technical execution.
 
 - 🌍 **Serving Global Clients** - International digital products
 - 🤖 **AI-First Mindset** - Gemini, OpenCV, LLMs integration
