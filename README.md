@@ -20,8 +20,7 @@
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=mr-moon34&color=0077B5&style=flat-square&label=Profile+Views" />
-    <img src="https://img.shields.io/github/followers/mr-moon34?label=Followers&style=flat-square&color=0077B5" />
-    <img src="https://img.shields.io/github/stars/mr-moon34?label=Stars&style=flat-square&color=0077B5" />
+  
   </p>
 </div>
 
