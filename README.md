@@ -134,15 +134,23 @@ Real-time fitness tracking & posture correction
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-moon34&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mr-moon34&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Coding Stats" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-moon34&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-moon34&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-moon34&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -219,52 +227,3 @@ Real-time fitness tracking & posture correction
   <p><i>Open for freelance opportunities and exciting collaborations!</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00A0DC&height=100&section=footer" width="100%" />
 </div>
-
----
-
-## 🔧 Setup Instructions for Snake Animation
-
-<details>
-<summary><b>Click to view setup guide</b></summary>
-
-### Step 1: Create GitHub Action File
-Create `.github/workflows/snake.yml` in your repository:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mr-moon34
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Step 2: Run the Action
-1. Go to **Actions** tab in your GitHub repository
-2. Click on "Generate Snake" workflow
-3. Click "Run workflow"
-4. Wait 5-10 minutes for the snake to generate
-
-</details>
