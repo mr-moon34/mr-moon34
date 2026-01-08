@@ -1,6 +1,6 @@
 <!-- 
-  COMPLETE OPTIMIZED VERSION 
-  All images working | Professional Layout | Dual Account Support
+  ULTRA-OPTIMIZED VERSION 
+  Tested & Working | Fast Loading | Clean Design
 -->
 
 <div align="center">
@@ -15,82 +15,90 @@
 
 <div align="center">
   <h3>⚡ Software Engineer | REAL-TIME SYSTEMS & AI SPECIALIST ⚡</h3>
-  <p align="center">
+  <p>
     <b>Mehran UET Alumnus | Architect of CodeWeave | Global Freelance Engineer</b>
   </p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mr-moon34&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/mr-moon34?label=Followers&style=flat-square&color=0077B5" alt="Followers" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mr-moon34&color=0077B5&style=flat-square&label=Profile+Views" />
+    <img src="https://img.shields.io/github/followers/mr-moon34?label=Followers&style=flat-square&color=0077B5" />
+    <img src="https://img.shields.io/github/stars/mr-moon34?label=Stars&style=flat-square&color=0077B5" />
   </p>
 </div>
 
-<br/>
-
 ---
 
-## 🏛️ Digital Identity (Who I Am)
+## 🏛️ Digital Identity
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left">
-I am a <b>Full Stack Developer</b> who doesn't just write code—I engineer solutions. My expertise lies in bridging the gap between high-level business requirements and low-level technical execution. Whether it's architecting <b>GenAI Copilots</b> or building enterprise-grade <b>E-commerce engines</b>, I focus on performance, precision, and production-readiness.
-</p>
+I am a **Full Stack Developer** who doesn't just write code—I engineer solutions. My expertise lies in bridging the gap between high-level business requirements and low-level technical execution.
 
-- 🌍 **Serving Global Clients**: Translating international visions into digital products
-- 🤖 **AI-First Mindset**: Integrating Gemini, OpenCV, and LLMs into workflows
-- 🚀 **Dual Hub Presence**: Managing architectures across multiple repositories
-- 💼 **Open to Collaborate**: Always ready for innovative projects
-- 📧 **Reach Me**: mr.muhammadmoon@gmail.com
-- 🌐 **Location**: Hyderabad, Sindh, Pakistan
+- 🌍 **Serving Global Clients** - International digital products
+- 🤖 **AI-First Mindset** - Gemini, OpenCV, LLMs integration
+- 🚀 **Production Ready** - Performance & scalability focus
+- 💼 **Open to Collaborate** - Innovative project partnerships
+- 📧 **Contact** - mr.muhammadmoon@gmail.com
+- 🌐 **Location** - Hyderabad, Sindh, Pakistan
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ The Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui,bootstrap&perline=10" />
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,mongodb,mysql,postgresql,firebase,supabase&perline=10" />
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel,netlify,aws,linux&perline=10" />
+**Tools & Cloud**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 💎 Featured Masterpieces
+## 💎 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🚀 [CodeWeave.co](https://codeweave.co)
-**The Next Big Thing**  
-GenAI Copilot for DevOps Infrastructure
+**GenAI Copilot for DevOps**
 
-**Stack:**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![AI](https://img.shields.io/badge/GenAI-FF6F00?style=flat-square&logo=ai)
-![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square&logo=microsoftazure)
+A next-generation GenAI copilot specifically designed for DevOps infrastructure management and automation.
+
+**Tech Stack:**  
+`Next.js` `GenAI` `Cloud Native` `SaaS`
 
 </td>
 <td width="50%">
 
 ### 🛍️ [Fashion Flow](https://github.com/mr-moon34/Ecommerce-Fashion-Flow)
-**Enterprise E-commerce**  
-High-conversion platform with Stripe integration
+**Enterprise E-commerce Platform**
 
-**Stack:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+High-conversion e-commerce engine with complex business logic and payment integration.
+
+**Tech Stack:**  
+`MongoDB` `Express` `React` `Node.js` `Stripe`
 
 </td>
 </tr>
@@ -99,25 +107,23 @@ High-conversion platform with Stripe integration
 <td width="50%">
 
 ### 🏋️ [AI Virtual Coach](https://github.com/mr-moon34/Ai-Fitness-Website-Design.git)
-**Computer Vision Intelligence**  
-Real-time fitness tracking & posture correction
+**Computer Vision Fitness App**
 
-**Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+Real-time fitness tracking and posture correction using advanced computer vision.
+
+**Tech Stack:**  
+`Python` `OpenCV` `MediaPipe` `Flask`
 
 </td>
 <td width="50%">
 
-### 📱 [More Projects](https://github.com/mr-moon34?tab=repositories)
-**Explore My Work**  
-50+ repositories showcasing diverse skills
+### 📱 [More Projects →](https://github.com/mr-moon34?tab=repositories)
+**50+ Repositories**
 
-**Including:**  
+Explore diverse projects including:
 - WhatsApp Clone (MERN)
 - RESTful APIs
-- Mini Projects
+- Mini Applications
 
 </td>
 </tr>
@@ -125,48 +131,63 @@ Real-time fitness tracking & posture correction
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-moon34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-moon34&theme=tokyonight&hide_border=true&background=1a1b27" width="49%" alt="Streak Stats" />
-</p>
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-moon34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-moon34&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mr-moon34&theme=tokyonight&hide_border=true&layout=compact" width="49%" alt="Coding Stats" />
-</p>
+</div>
 
----
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mr-moon34&theme=tokyonight&hide_border=true" width="100%" />
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-moon34&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="100%" />
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-moon34&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
-</p>
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=mr-moon34&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6" width="100%" />
+
+</div>
 
 ---
 
-## 💼 Dual Account Analysis
+## 📈 Contribution Graph
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-moon34&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🔗 Secondary Account
+
+<div align="center">
+
+### 👉 [Visit My Secondary Profile: @moondeveloper34](https://github.com/moondeveloper34) 👈
+
+<a href="https://github.com/moondeveloper34">
+  <img src="https://img.shields.io/badge/GitHub-moondeveloper34-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <details>
-<summary><b>📈 Click to View Secondary Account Stats (moondeveloper34)</b></summary>
+<summary><b>📊 View Secondary Account Stats</b></summary>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moondeveloper34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondeveloper34&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moondeveloper34&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moondeveloper34&layout=compact&theme=tokyonight&hide_border=true" />
 
 </details>
+
+</div>
 
 ---
 
@@ -180,50 +201,65 @@ Real-time fitness tracking & posture correction
   </picture>
 </div>
 
-> **Note:** Snake animation requires GitHub Action setup. See instructions below.
+> **📝 Note:** Snake animation requires GitHub Action setup. Instructions below.
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-moon-37aa6a25b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mr.muhammadmoon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mr-moon34">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://codeweave.co">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+
+<a href="https://www.linkedin.com/in/muhammad-moon-37aa6a25b">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Moon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mr.muhammadmoon@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mr.muhammadmoon-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/mr-moon34">
+  <img src="https://img.shields.io/badge/GitHub-mr--moon34-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://codeweave.co">
+  <img src="https://img.shields.io/badge/Portfolio-CodeWeave.co-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </div>
-
----
-
-## 📝 Latest Blog Posts & Activities
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building GenAI Copilots for Modern DevOps
-- 💡 Full Stack Development Best Practices
-- 🤖 Integrating AI into Web Applications
-- 🛠️ E-commerce Architecture Patterns
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 💬 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>💙 Thank you for visiting! Let's build something epic together. ✨</h3>
-  <p><i>Open for freelance opportunities and exciting collaborations!</i></p>
+  <h3>💙 Thank you for visiting!</h3>
+  <p><i>Open for freelance opportunities and exciting collaborations</i></p>
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00A0DC&height=100&section=footer" width="100%" />
 </div>
+
+
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+### Step 2: Activate
+1. Go to **Actions** tab
+2. Click **"Generate Snake"**
+3. Click **"Run workflow"**
+4. Wait 5-10 minutes
+
+</details>
