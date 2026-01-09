@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <h3>⚡ Software Engineer | REAL-TIME SYSTEMS & AI SPECIALIST ⚡</h3>
+  <h3>⚡ Software Engineer | REAL TIME SYSTEMS & AI SPECIALIST ⚡</h3>
   <p>
     <b>Mehran UET Alumnus | Architect of CodeWeave | Global Freelance Engineer</b>
   </p>
